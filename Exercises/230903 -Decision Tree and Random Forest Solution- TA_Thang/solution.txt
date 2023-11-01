@@ -1,0 +1,16 @@
+Decision Tree and Random Forest Exercise - Multiple choices answers
+1. C
+2. A
+3. B
+4. D
+5. B
+6.a. C
+6.b. B
+6.c. D
+7. B
+8. D
+9. C
+10. A
+11.a. B
+11.b. C
+12. B
