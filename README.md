@@ -8,7 +8,7 @@ Sharing knowledge in the field of AI
 - Mình khuyến khích các bạn tham gia khóa học AIO của AI VIETNAM, để được học những kiến thức chuẩn nhất và đầy đủ nhất
 
 Module 4: Machine Learning
-1. 230829 -> K Nearest Neighbor (KNN)
-2. 230901 -> Decision Tree for Classification
-3. 230906 -> Decision Tree for Regression
-4. 230908 -> Random Forest
+1. 230830 - K Nearest Neighbor (KNN)
+2. 230901 - Decision Tree for Classification
+3. 230906 - Decision Tree for Regression
+4. 230908 - Random Forest
